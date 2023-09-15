@@ -1,1 +1,48 @@
-# pygame
+# PyGame项目文档
+包含了Pygame项目的所有代码和文件
+
+## 文件目录：
+- 2048\\...：2048小游戏[OK]
+- Air\\...：空中战争，类似外星人入侵
+- Artillery\\...：火炮对射(起伏地形的绘制)
+- Avoid\\...：精灵相互碰撞
+- Block\\...：打砖块
+- Chariot\\...：坦克游戏（实现精灵的旋转）
+- Chinese_checkers\\...：中国跳棋（递归算法寻找可移动路径）[OK]
+- Chinese_chess\\...：中国象棋（AI对战）[OK]
+- Defend\\...：机枪防御战
+- Firework\\...：放烟花
+- Girl\\...：一个小女孩，可以向鼠标点击的位置行走
+- Klotski\\...：华容道
+- Link\\...：美食连连看[OK]
+- Money\\...：打手电筒，捡金币
+- Oil\\...：擦除油污
+- Othello\\...：黑白棋(含AI对战)[OK]
+- Peg_solitaire\\...：孔明棋(含AI演示)[OK]
+- Puzzle\\...：拼图[OK]
+- Racing\\...：公路赛车
+- Snooker\\...：斯诺克台球，使用pymunk
+- Sokoban\\...：推箱子[OK]
+- Solitaire\\...空当接龙[OK]
+- Tank\\...：复古的坦克大战游戏[OK]
+- Template\\...：项目模板
+- Tetris\\...：俄罗斯方块（使用精灵类编写）[OK]
+- Tic-Tac-Toe\\...：井字棋(含AI对战)[OK]
+- other\\...
+  - images\\...：图像文件夹
+  - ball.py：多个随机变色的小球运动
+  - bomb.py：用木板捕获掉落炸弹
+  - circle.py：用sin(),cos()画圆
+  - clock.py：模拟时钟
+  - draw.py：画基本的图形
+  - firework.py：烟花
+  - football.py：一个方向，速度随机运动的足球
+  - line1000.py：多条位置、颜色随机的线条
+  - mask.py：遮罩的使用
+  - mouse.py：鼠标事件管理
+  - pie.py：通过按键拼出一个圆饼
+  - pymunk_test.py：pymunk物理引擎库测试
+  - snake.py：贪吃蛇
+  - spaceship.py：在轨道飞行的飞船
+  - typewriting.py：打字测试
+  - zombie.py：警察追僵尸
